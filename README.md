@@ -4,6 +4,8 @@ This project aims to develop a deep learning model for predicting cardiovascular
 1. Cardiovascular Disease Prediction Project Interface
 This interface demonstrates how users interact with the system. Key features include:
 
-Intuitive data input fields for user convenience.
-An output section displaying risk predictions clearly.
-Back-end integration of machine learning algorithms for prediction analysis.
+    (i)Intuitive data input fields for user convenience.
+    (ii) An output section displaying risk predictions clearly.
+    (iii)Back-end integration of machine learning algorithms for prediction analysis.
+<img width="1903" height="868" alt="interface" src="https://github.com/user-attachments/assets/ac68a487-8a14-4c3b-bfeb-1ff133b8886b" />
+
